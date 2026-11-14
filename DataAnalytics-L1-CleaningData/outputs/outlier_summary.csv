@@ -1,0 +1,3 @@
+column,lower_IQR_bound,upper_IQR_bound,outlier_count,treatment
+age,0.625,57.625,34,Retained
+fare,-26.930249999999997,65.97815,116,Upper-tail capped

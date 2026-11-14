@@ -1,0 +1,13 @@
+column,data_type,missing_values,missing_percent,unique_values
+passengerid,string,0,0.0,891
+survived,Int64,0,0.0,2
+pclass,Int64,0,0.0,3
+name,string,0,0.0,891
+sex,string,0,0.0,2
+age,float64,0,0.0,88
+sibsp,Int64,0,0.0,7
+parch,Int64,0,0.0,7
+ticket,string,0,0.0,681
+fare,float64,0,0.0,203
+cabin,string,0,0.0,148
+embarked,string,0,0.0,3

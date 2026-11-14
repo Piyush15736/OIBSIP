@@ -1,0 +1,6 @@
+metric,before,after
+row_count,897.0,891.0
+duplicate_rows,6.0,0.0
+missing_cells,888.0,0.0
+range_anomalies,0.0,0.0
+dtype_accuracy_percent,75.0,100.0

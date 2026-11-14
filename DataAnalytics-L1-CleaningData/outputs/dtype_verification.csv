@@ -1,0 +1,13 @@
+column,expected_type,actual_type,type_correct
+passengerid,string,string,True
+name,string,string,True
+sex,string,string,True
+ticket,string,string,True
+cabin,string,string,True
+embarked,string,string,True
+survived,integer,Int64,True
+pclass,integer,Int64,True
+sibsp,integer,Int64,True
+parch,integer,Int64,True
+age,numeric,float64,True
+fare,numeric,float64,True
