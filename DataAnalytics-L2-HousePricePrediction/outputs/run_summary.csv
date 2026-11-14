@@ -1,0 +1,2 @@
+dataset_source,target_column,rows_used,predictor_columns_before_encoding,train_rows,test_rows,mse,rmse,mae,r2
+OpenML: house_prices (Ames Housing),SalePrice,1460,75,1168,292,2729849625.2843375,52247.96288166973,20509.759225659487,0.644102538595235
